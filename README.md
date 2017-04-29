@@ -66,12 +66,7 @@
     <img src="http://i.imgur.com/U6lKE3c.png" /> <br/><br/>
     </td>
   </tr>
-</table>
-<table border="0" cellpadding="2" cellspacing="5" width="100%">
-  <tr>
-    <td class="main3" width="890px">&#9733; <b>Commands:</b></td>
-  </tr>
-</table>  
+</table> 
 </body>
 </html>
 
