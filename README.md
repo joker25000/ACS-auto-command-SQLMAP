@@ -36,4 +36,4 @@
   <tr>
     <td class="main" width="890px"><p>&#x25cf; Auto Commends SQLMAP <br />
 
-    </p></td>
+
