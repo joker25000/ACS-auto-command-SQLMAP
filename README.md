@@ -17,10 +17,10 @@
     <td width="100px" class="main2"><b>AUTHOR:</b></td><td width="780px">Joker-Dz</td>
   </tr>
   <tr>
-    <td width="100px" class="main2"><b>FACE PAGE 1:</b></td><td width="780px">facebook.com/AnonymousPalestine.vip</td>
+    <td width="100px" class="main2"><b>FACE Pg 1:</b></td><td width="780px">facebook.com/AnonymousPalestine.vip</td>
   </tr>
   <tr>
-    <td width="100px" class="main2"><b>FACE PAGE 2:</b></td><td>facebook.com/kali.linux.pentesting.tutorials </td>
+    <td width="100px" class="main2"><b>FACE Pg 2:</b></td><td>facebook.com/kali.linux.pentesting.tutorials </td>
   </tr>
   <tr>
     <td width="100px" class="main2"><b>YOUTUBE:</b></td><td>youtube.com/c/Professionalhacker25</td>
