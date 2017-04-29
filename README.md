@@ -52,7 +52,7 @@
     <td class="main3" width="890px">&#9733; <b>Commands:</b></td>
   </tr>
   <tr>
-    <td class="main">cd ACS-auto-command-SQLMAP chmod +x sql.py <br/>python3 sql.py </td>
+    <td class="main">cd ACS-auto-command-SQLMAP <br>chmod +x sql.py<br/> <br/>python3 sql.py </td>
   </tr>
 </table>
 
@@ -62,8 +62,8 @@
   </tr>
   <tr>
     <td align="center" width="890px">
-    <img src="http://imgur.com/tNkLhlN" /> <br/><br/>
-    <img src="http://imgur.com/5G96oby" /> <br/><br/>
+    <img src="http://i.imgur.com/IGbvlEU.png" /> <br/><br/>
+    <img src="http://i.imgur.com/U6lKE3c.png" /> <br/><br/>
     </td>
   </tr>
 </table>
@@ -71,13 +71,6 @@
   <tr>
     <td class="main3" width="890px">&#9733; <b>Commands:</b></td>
   </tr>
-  <tr>
-    <td class="main"><table border="0" cellpadding="2" cellspacing="5" width="100%">
-      <tr>
-        <td width="200px" class="main">--help / -h / -?</td>
-        <td class="main">Help.</td>
-      </tr> 
-      <tr>
 </table>  
 </body>
 </html>
