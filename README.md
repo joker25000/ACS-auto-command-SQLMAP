@@ -62,8 +62,8 @@
   </tr>
   <tr>
     <td align="center" width="890px">
-    <img src="http://i.imgur.com/IGbvlEU.png" /> <br/><br/>
-    <img src="http://i.imgur.com/U6lKE3c.png" /> <br/><br/>
+    <img src="http://i.imgur.com/OfkEBpu.png" /> <br/><br/>
+    <img src="http://i.imgur.com/4146mhy.png" /> <br/><br/>
     </td>
   </tr>
 </table> 
