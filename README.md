@@ -45,7 +45,8 @@
   <tr>
     <td class="main">
       &#x25cf; git clone https://github.com/joker25000/ACS-auto-command-SQLMAP <br/>
-      &#x25cf; Requirement :sqlhttps://github.com/sqlmapproject/sqlmapmap <br/>
+      &#x25cf; Requirement http://sqlmap.org/<br/>
+      &#x25cf; sqlmap : http://sqlmap.org/<br/>
     </td>
 
 </table>
