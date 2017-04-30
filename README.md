@@ -58,6 +58,10 @@
     <td class="main"> <br>cd ACS-auto-command-SQLMAP<br/> <br>chmod +x sql.py<br/> <br>./sql.py<br/> <br>other method<br/><br>python3 sql.py<br/> </td>
   </tr>
 </table>
+<tr>
+    <td class="main"> <br>Video Link:<br/> <br>https://www.youtube.com/watch?v=cpczctLTfOw&t=20s<br/>  </td>
+  </tr>
+</table>
 
 <table border="0" cellpadding="2" cellspacing="5" width="100%">
   <tr>
