@@ -52,7 +52,7 @@
     <td class="main3" width="890px">&#9733; <b>Commands:</b></td>
   </tr>
   <tr>
-    <td class="main">cd ACS-auto-command-SQLMAP <br>chmod +x sql.py<br/> <br/>python3 sql.py </td>
+    <td class="main"> <br>cd ACS-auto-command-SQLMAP<br/> <br>chmod +x sql.py<br/> <br/>python3 sql.py<br/> </td>
   </tr>
 </table>
 
