@@ -34,7 +34,8 @@
     <td class="main3">&#9733; <b>Description:</b></td>
   </tr>
   <tr>
-    <td class="main" width="890px"><p>&#x25cf; Auto Commends SQLMAP <br />
+    <td class="main" width="890px"><p>&#x25cf; Auto Commends SQLMAP running with python3
+<br />
     </table>
 
 <table border="0" cellpadding="2" cellspacing="5" width="100%">
@@ -44,6 +45,7 @@
   <tr>
     <td class="main">
       &#x25cf; git clone https://github.com/joker25000/ACS-auto-command-SQLMAP <br/>
+      &#x25cf; Requirement :sqlhttps://github.com/sqlmapproject/sqlmapmap <br/>
     </td>
 
 </table>
