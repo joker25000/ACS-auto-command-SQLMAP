@@ -17,7 +17,7 @@
     <td width="100px" class="main2"><b>AUTHOR:</b></td><td width="780px">Joker-Security</td>
   </tr>
   <tr>
-    <td width="100px" class="main2"><b>FACE Pg 1:</b></td><td width="780px">facebook.com/AnonymousPalestine.vip</td>
+    <td width="100px" class="main2"><b> Twitter :</b></td><td width="780px">https://twitter.com/SecurityJoker</td>
   </tr>
   <tr>
     <td width="100px" class="main2"><b>FACE Pg 2:</b></td><td>facebook.com/kali.linux.pentesting.tutorials </td>
